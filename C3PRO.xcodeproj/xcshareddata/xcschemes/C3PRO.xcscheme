@@ -53,6 +53,26 @@
                ReferencedContainer = "container:C3PRO.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EE43B1B219546D880017679A"
+               BuildableName = "SwiftSMART-iOSTests.xctest"
+               BlueprintName = "SwiftSMART-iOSTests"
+               ReferencedContainer = "container:Swift-SMART/SwiftSMART.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "279D63A61AD07FFF0024E2BC"
+               BuildableName = "JWTTests.xctest"
+               BlueprintName = "JWTTests"
+               ReferencedContainer = "container:JSONWebToken/JWT.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
